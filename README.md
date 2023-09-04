@@ -1,10 +1,10 @@
-# CS411 Project
+# Weather Planner
 
-By: Derek Roberts, James Wong, Kevin Wu
+By: James Wong, Kevin Wu, Derek Roberts
 
 ## Overview
 
-This repository contains the code for our CS411 project. We created a Calendar Activity Planner!
+This repository contains the code for our CS411 project. We created a Calendar Activity Planner! The Calendar includes api calls to the weather as well as interactive calendar that is expandable. THis allows the user to plan events, location, and timing based on the weather for that specific day!
 
 ## Demo Video
 
